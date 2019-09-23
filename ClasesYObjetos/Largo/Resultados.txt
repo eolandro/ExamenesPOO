@@ -1,0 +1,373 @@
+=================
+Segundo 0
+A 0.0 Bateria 100.0
+B 0.0 Bateria 100.0
+C 0.0 Bateria 100.0
+=================
+=================
+Segundo 1
+A 8.0 Bateria 97.33333333333333
+B 6.0 Bateria 98.5
+C 4.0 Bateria 99.2
+=================
+=================
+Segundo 2
+A 16.0 Bateria 94.66666666666667
+B 12.0 Bateria 97.0
+C 8.0 Bateria 98.4
+=================
+=================
+Segundo 3
+A 24.0 Bateria 92.0
+B 18.0 Bateria 95.5
+C 12.0 Bateria 97.6
+=================
+=================
+Segundo 4
+A 32.0 Bateria 89.33333333333333
+B 24.0 Bateria 94.0
+C 16.0 Bateria 96.8
+=================
+=================
+Segundo 5
+A 40.0 Bateria 86.66666666666667
+B 30.0 Bateria 92.5
+C 20.0 Bateria 96.0
+=================
+=================
+Segundo 6
+A 48.0 Bateria 84.0
+B 36.0 Bateria 91.0
+C 24.0 Bateria 95.2
+=================
+=================
+Segundo 7
+A 56.0 Bateria 81.33333333333334
+B 42.0 Bateria 89.5
+C 28.0 Bateria 94.4
+=================
+=================
+Segundo 8
+A 64.0 Bateria 78.66666666666667
+B 48.0 Bateria 88.0
+C 32.0 Bateria 93.6
+=================
+=================
+Segundo 9
+A 72.0 Bateria 76.0
+B 54.0 Bateria 86.5
+C 36.0 Bateria 92.8
+=================
+=================
+Segundo 10
+A 80.0 Bateria 73.33333333333334
+B 60.0 Bateria 85.0
+C 40.0 Bateria 92.0
+=================
+=================
+Segundo 11
+A 88.0 Bateria 70.66666666666667
+B 66.0 Bateria 83.5
+C 44.0 Bateria 91.2
+=================
+=================
+Segundo 12
+A 96.0 Bateria 68.0
+B 72.0 Bateria 82.0
+C 48.0 Bateria 90.4
+=================
+=================
+Segundo 13
+A 104.0 Bateria 65.33333333333334
+B 78.0 Bateria 80.5
+C 52.0 Bateria 89.6
+=================
+=================
+Segundo 14
+A 112.0 Bateria 62.66666666666667
+B 84.0 Bateria 79.0
+C 56.0 Bateria 88.8
+=================
+=================
+Segundo 15
+A 120.0 Bateria 60.0
+B 90.0 Bateria 77.5
+C 60.0 Bateria 88.0
+=================
+=================
+Segundo 16
+A 128.0 Bateria 57.333333333333336
+B 96.0 Bateria 76.0
+C 64.0 Bateria 87.2
+=================
+=================
+Segundo 17
+A 136.0 Bateria 54.66666666666667
+B 102.0 Bateria 74.5
+C 68.0 Bateria 86.4
+=================
+=================
+Segundo 18
+A 144.0 Bateria 52.0
+B 108.0 Bateria 73.0
+C 72.0 Bateria 85.6
+=================
+=================
+Segundo 19
+A 152.0 Bateria 49.333333333333336
+B 114.0 Bateria 71.5
+C 76.0 Bateria 84.8
+=================
+=================
+Segundo 20
+A 160.0 Bateria 46.66666666666667
+B 120.0 Bateria 70.0
+C 80.0 Bateria 84.0
+=================
+=================
+Segundo 21
+A 168.0 Bateria 44.0
+B 126.0 Bateria 68.5
+C 84.0 Bateria 83.2
+=================
+=================
+Segundo 22
+A 176.0 Bateria 41.333333333333336
+B 132.0 Bateria 67.0
+C 88.0 Bateria 82.4
+=================
+=================
+Segundo 23
+A 184.0 Bateria 38.66666666666667
+B 138.0 Bateria 65.5
+C 92.0 Bateria 81.6
+=================
+=================
+Segundo 24
+A 192.0 Bateria 36.0
+B 144.0 Bateria 64.0
+C 96.0 Bateria 80.8
+=================
+=================
+Segundo 25
+A 200.0 Bateria 33.33333333333334
+B 150.0 Bateria 62.5
+C 100.0 Bateria 80.0
+=================
+=================
+Segundo 26
+A 208.0 Bateria 30.66666666666667
+B 156.0 Bateria 61.0
+C 104.0 Bateria 79.2
+=================
+=================
+Segundo 27
+A 216.0 Bateria 28.0
+B 162.0 Bateria 59.5
+C 108.0 Bateria 78.4
+=================
+=================
+Segundo 28
+A 224.0 Bateria 25.333333333333343
+B 168.0 Bateria 58.0
+C 112.0 Bateria 77.6
+=================
+=================
+Segundo 29
+A 232.0 Bateria 22.66666666666667
+B 174.0 Bateria 56.5
+C 116.0 Bateria 76.8
+=================
+=================
+Segundo 30
+A 240.0 Bateria 20.0
+B 180.0 Bateria 55.0
+C 120.0 Bateria 76.0
+=================
+=================
+Segundo 31
+A 248.0 Bateria 17.333333333333343
+B 186.0 Bateria 53.5
+C 124.0 Bateria 75.2
+=================
+=================
+Segundo 32
+A 256.0 Bateria 14.666666666666671
+B 192.0 Bateria 52.0
+C 128.0 Bateria 74.4
+=================
+=================
+Segundo 33
+A 264.0 Bateria 12.0
+B 198.0 Bateria 50.5
+C 132.0 Bateria 73.6
+=================
+=================
+Segundo 34
+A 272.0 Bateria 9.333333333333343
+B 204.0 Bateria 49.0
+C 136.0 Bateria 72.8
+=================
+=================
+Segundo 35
+A 280.0 Bateria 6.666666666666671
+B 210.0 Bateria 47.5
+C 140.0 Bateria 72.0
+=================
+=================
+Segundo 36
+A 288.0 Bateria 4.0
+B 216.0 Bateria 46.0
+C 144.0 Bateria 71.2
+=================
+=================
+Segundo 37
+A 296.0 Bateria 1.3333333333333428
+B 222.0 Bateria 44.5
+C 148.0 Bateria 70.4
+=================
+=================
+Segundo 38
+A 304.0 Bateria 0.0
+B 228.0 Bateria 43.0
+C 152.0 Bateria 69.6
+=================
+=================
+Segundo 39
+A 304.0 Bateria 0.0
+B 234.0 Bateria 41.5
+C 156.0 Bateria 68.8
+=================
+=================
+Segundo 40
+A 304.0 Bateria 0.0
+B 240.0 Bateria 40.0
+C 160.0 Bateria 68.0
+=================
+=================
+Segundo 41
+A 304.0 Bateria 0.0
+B 246.0 Bateria 38.5
+C 164.0 Bateria 67.19999999999999
+=================
+=================
+Segundo 42
+A 304.0 Bateria 0.0
+B 252.0 Bateria 37.0
+C 168.0 Bateria 66.4
+=================
+=================
+Segundo 43
+A 304.0 Bateria 0.0
+B 258.0 Bateria 35.5
+C 172.0 Bateria 65.6
+=================
+=================
+Segundo 44
+A 304.0 Bateria 0.0
+B 264.0 Bateria 34.0
+C 176.0 Bateria 64.8
+=================
+=================
+Segundo 45
+A 304.0 Bateria 0.0
+B 270.0 Bateria 32.5
+C 180.0 Bateria 64.0
+=================
+=================
+Segundo 46
+A 304.0 Bateria 0.0
+B 276.0 Bateria 31.0
+C 184.0 Bateria 63.199999999999996
+=================
+=================
+Segundo 47
+A 304.0 Bateria 0.0
+B 282.0 Bateria 29.5
+C 188.0 Bateria 62.4
+=================
+=================
+Segundo 48
+A 304.0 Bateria 0.0
+B 288.0 Bateria 28.0
+C 192.0 Bateria 61.599999999999994
+=================
+=================
+Segundo 49
+A 304.0 Bateria 0.0
+B 294.0 Bateria 26.5
+C 196.0 Bateria 60.8
+=================
+=================
+Segundo 50
+A 304.0 Bateria 0.0
+B 300.0 Bateria 25.0
+C 200.0 Bateria 60.0
+=================
+=================
+Segundo 51
+A 304.0 Bateria 0.0
+B 306.0 Bateria 23.5
+C 204.0 Bateria 59.199999999999996
+=================
+=================
+Segundo 52
+A 304.0 Bateria 0.0
+B 312.0 Bateria 22.0
+C 208.0 Bateria 58.4
+=================
+=================
+Segundo 53
+A 304.0 Bateria 0.0
+B 318.0 Bateria 20.5
+C 212.0 Bateria 57.599999999999994
+=================
+=================
+Segundo 54
+A 304.0 Bateria 0.0
+B 324.0 Bateria 19.0
+C 216.0 Bateria 56.8
+=================
+=================
+Segundo 55
+A 304.0 Bateria 0.0
+B 330.0 Bateria 17.5
+C 220.0 Bateria 56.0
+=================
+=================
+Segundo 56
+A 304.0 Bateria 0.0
+B 336.0 Bateria 16.0
+C 224.0 Bateria 55.199999999999996
+=================
+=================
+Segundo 57
+A 304.0 Bateria 0.0
+B 342.0 Bateria 14.5
+C 228.0 Bateria 54.4
+=================
+=================
+Segundo 58
+A 304.0 Bateria 0.0
+B 348.0 Bateria 13.0
+C 232.0 Bateria 53.599999999999994
+=================
+=================
+Segundo 59
+A 304.0 Bateria 0.0
+B 354.0 Bateria 11.5
+C 236.0 Bateria 52.8
+=================
+=================
+Segundo 60
+A 304.0 Bateria 0.0
+B 360.0 Bateria 10.0
+C 240.0 Bateria 52.0
+=================
+El Auto ganador es:
+Him de tipo 2 con bateria de 10.0
+=================
+Recargando Bateria
+Black Hat de tipo 1 con bateria de 100.0
+Him de tipo 2 con bateria de 100.0
+Aku de tipo 3 con bateria de 100.0

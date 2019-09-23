@@ -1,0 +1,10 @@
+Escribir la clase cuadrilatero, a partir de la clase linea, previamente
+definida en clases pasadas, tiene como atributos las 4 lineas del 
+cuadrilatero y un nombre.
+
+Defina Todos sus contructores; atributos; metodos get/set y un metodo
+adicional que me permita saber si un cuadrilatero es cuadrado, rectangulo
+o irregular. (1,2,3)
+
+Pruebe en un main con 3 instancias un cuadrado, rectangulo y un cuadrilatero 
+irregular.
